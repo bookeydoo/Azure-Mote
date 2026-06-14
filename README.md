@@ -2,7 +2,7 @@ Azure-Mote
 
 Azure-Mote is my submission for the KiCad 2026 PCB Design Competition. It is a standalone subsystem of a larger project currently in development—a modular handheld gaming device.
 
-The Azure-Mote is a detachable Bluetooth Low Energy (BLE) controller designed to provide a seamless wireless gaming experience. It is built around the MDBT50Q-1MV2 module, enabling low-power Bluetooth connectivity while allowing the controller to be freely connected and disconnected from the main device.
+The Azure-Mote is a detachable Bluetooth Low Energy (BLE) controller designed to provide a seamless wireless gaming experience. It is built around the MDBT50Q-1MV2 module, enabling low-power Bluetooth connectivity while allowing the controller to be freely connected and disconnected from the main device using magnetic POGO-Pins.
 
 When docked, the controller can be recharged directly through the handheld using the BQ24074RGT battery charger IC, eliminating the need for a separate charging solution and providing a convenient, integrated user experience.
 
