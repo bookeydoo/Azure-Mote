@@ -22,6 +22,6 @@ Features:
 
 Project Status
 
-Azure-Mote is currently a work in progress and represents one component of a larger handheld gaming platform under active development. This submission focuses on the PCB design and hardware implementation of the controller module.
+Azure-Mote is a prototype needs proper testing and represents one component of a larger handheld gaming platform under active development. This submission focuses on the PCB design and hardware implementation of the controller module.
 
 <img width="1239" height="785" alt="image" src="https://github.com/user-attachments/assets/0a017d2c-3778-4321-84c9-c1774d02ad1d" />
