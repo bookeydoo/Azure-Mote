@@ -7,11 +7,16 @@ The Azure-Mote is a detachable Bluetooth Low Energy (BLE) controller designed to
 When docked, the controller can be recharged directly through the handheld using the BQ24074RGT battery charger IC, eliminating the need for a separate charging solution and providing a convenient, integrated user experience.
 
 Features:
--Bluetooth Low Energy (BLE) wireless controller
+-Bluetooth Low Energy (BLE) wireless controller.
+
 -Built around the MDBT50Q-1MV2 Nordic-based BLE module
+
 -Detachable design for flexible use and portability
+
 -Integrated battery charging using the BQ24074RGT charger IC
+
 -Dock-and-charge functionality when connected to the main handheld device
+
 -Designed as part of a modular handheld gaming ecosystem
 
 Project Status
